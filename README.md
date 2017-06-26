@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # Rails_day_1
+# Rails_day_1
